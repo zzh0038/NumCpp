@@ -3,7 +3,6 @@
 #include <cstdlib>
 #include <iostream>
 
-// a simple change
 using FunctionType = std::function<double(const nc::NdArray<double>&, const nc::NdArray<double>&)>;
 
 void wikipediaExample()
